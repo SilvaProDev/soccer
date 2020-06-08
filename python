@@ -1,0 +1,3 @@
+Migrations for 'liverpool':
+  liverpool\migrations\0002_auto_20200608_0643.py
+    - Alter field photo on origincoach
