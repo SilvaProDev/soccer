@@ -327,7 +327,7 @@ body.bigslam-boxed .bigslam-body-wrapper{ margin-top: 0px; margin-bottom: 0px; }
 .bigslam-item-pdlr, .gdlr-core-item-pdlr{ padding-left: 20px; padding-right: 20px; }.bigslam-item-rvpdlr, .gdlr-core-item-rvpdlr{ margin-left: -20px; margin-right: -20px; }.gdlr-core-metro-rvpdlr{ margin-top: -20px; margin-right: -20px; margin-bottom: -20px; margin-left: -20px; }.bigslam-item-mglr, .gdlr-core-item-mglr, .bigslam-navigation .sf-menu > .bigslam-mega-menu .sf-mega{ margin-left: 20px; margin-right: 20px; } 
 .bigslam-container, .gdlr-core-container, body.bigslam-boxed .bigslam-body-wrapper, body.bigslam-boxed .bigslam-fixed-footer .bigslam-footer-wrapper, body.bigslam-boxed .bigslam-fixed-footer .bigslam-copyright-wrapper{ max-width: 1320px; } 
 .bigslam-body-front .gdlr-core-container, .bigslam-body-front .bigslam-container{ padding-left: 20px; padding-right: 20px; }.bigslam-body-front .bigslam-container .bigslam-container, .bigslam-body-front .bigslam-container .gdlr-core-container, .bigslam-body-front .gdlr-core-container .gdlr-core-container{ padding-left: 0px; padding-right: 0px; } 
-.bigslam-sp-event-featured-holder .bigslam-sp-event-featured-top{ background-image: url(../upload/featured-score-1.jpg); } 
+.bigslam-sp-event-featured-holder .bigslam-sp-event-featured-top{ background-image: url("../upload/featured-score-1.595d16a009e1.jpg"); } 
 .bigslam-top-bar-container.bigslam-top-bar-custom-container{ max-width: 1140px; } 
 .bigslam-top-bar-container.bigslam-top-bar-full{ padding-right: 15px; padding-left: 15px; } 
 .bigslam-top-bar{ padding-top: 17px; } 
@@ -369,7 +369,7 @@ body.bigslam-boxed .bigslam-body-wrapper{ margin-top: 0px; margin-bottom: 0px; }
 .bigslam-page-title-wrap.bigslam-style-custom .bigslam-page-caption{ font-size: 16px; } 
 .bigslam-page-title-wrap.bigslam-style-custom .bigslam-page-caption{ letter-spacing: 0px; } 
 .bigslam-page-title-wrap .bigslam-page-title-overlay{ opacity: 0; } 
-.bigslam-page-title-wrap{ background-image: url(../upload/page-title.jpg); } 
+.bigslam-page-title-wrap{ background-image: url("../upload/page-title.781428e37588.jpg"); } 
 .bigslam-not-found-wrap .bigslam-not-found-background{ opacity: 0.27; } 
 .bigslam-blog-title-wrap.bigslam-style-custom .bigslam-blog-title-content{ padding-top: 93px; } 
 .bigslam-blog-title-wrap.bigslam-style-custom .bigslam-blog-title-content{ padding-bottom: 87px; } 
@@ -825,73 +825,73 @@ span.woocommerce-Price-amount.amount{ color: #e31b23; }
 .gdlr-core-page-builder-body [data-skin="Dark"] .gdlr-core-button.gdlr-core-button-gradient-v{ background: -webkit-linear-gradient(to-right, #ffffff, #e2e2e2); background: -o-linear-gradient(to-right, #ffffff, #e2e2e2);  background: -moz-linear-gradient(to-right, #ffffff, #e2e2e2); background: linear-gradient(to-right, #ffffff, #e2e2e2); } 
 @font-face {
 font-family: "jost";
-src: url("../fonts/Jost-100-Hairline.eot");
-src: url("../fonts/Jost-100-Hairline-1.eot") format("embedded-opentype"), 
-url("../fonts/Jost-100-Hairline.ttf") format("truetype");
+src: url("../fonts/Jost-100-Hairline.527fc34cf117.eot");
+src: url("../fonts/Jost-100-Hairline-1.527fc34cf117.eot") format("embedded-opentype"), 
+url("../fonts/Jost-100-Hairline.6cc49c2b56b1.ttf") format("truetype");
 font-weight: 100;
 font-style: normal;
 }
 @font-face {
 font-family: "jost";
-src: url("../fonts/Jost-200-Thin.eot");
-src: url("../fonts/Jost-200-Thin-1.eot") format("embedded-opentype"), 
-url("../fonts/Jost-200-Thin.ttf") format("truetype");
+src: url("../fonts/Jost-200-Thin.aaa7bf5b15bb.eot");
+src: url("../fonts/Jost-200-Thin-1.aaa7bf5b15bb.eot") format("embedded-opentype"), 
+url("../fonts/Jost-200-Thin.961d6b00b110.ttf") format("truetype");
 font-weight: 200;
 font-style: normal;
 }
 @font-face {
 font-family: "jost";
-src: url("../fonts/Jost-300-Light.eot");
-src: url("../fonts/Jost-300-Light-1.eot") format("embedded-opentype"), 
-url("../fonts/Jost-300-Light.ttf") format("truetype");
+src: url("../fonts/Jost-300-Light.444be79f0f60.eot");
+src: url("../fonts/Jost-300-Light-1.444be79f0f60.eot") format("embedded-opentype"), 
+url("../fonts/Jost-300-Light.d31e2e437e38.ttf") format("truetype");
 font-weight: 300;
 font-style: normal;
 }
 @font-face {
 font-family: "jost";
-src: url("../fonts/Jost-400-Book.eot");
-src: url("../fonts/Jost-400-Book-1.eot") format("embedded-opentype"), 
-url("../fonts/Jost-400-Book.ttf") format("truetype");
+src: url("../fonts/Jost-400-Book.62b6995ba555.eot");
+src: url("../fonts/Jost-400-Book-1.62b6995ba555.eot") format("embedded-opentype"), 
+url("../fonts/Jost-400-Book.49cbd928da11.ttf") format("truetype");
 font-weight: 400;
 font-style: normal;
 }
 @font-face {
 font-family: "jost";
-src: url("../fonts/Jost-500-Medium.eot");
-src: url("../fonts/Jost-500-Medium-1.eot") format("embedded-opentype"), 
-url("../fonts/Jost-500-Medium.ttf") format("truetype");
+src: url("../fonts/Jost-500-Medium.94558b1df53c.eot");
+src: url("../fonts/Jost-500-Medium-1.94558b1df53c.eot") format("embedded-opentype"), 
+url("../fonts/Jost-500-Medium.90f3226adcb2.ttf") format("truetype");
 font-weight: 500;
 font-style: normal;
 }
 @font-face {
 font-family: "jost";
-src: url("../fonts/Jost-600-Semi.eot");
-src: url("../fonts/Jost-600-Semi-1.eot") format("embedded-opentype"), 
-url("../fonts/Jost-600-Semi.ttf") format("truetype");
+src: url("../fonts/Jost-600-Semi.f5e1ee67edfe.eot");
+src: url("../fonts/Jost-600-Semi-1.f5e1ee67edfe.eot") format("embedded-opentype"), 
+url("../fonts/Jost-600-Semi.b638ab720f8b.ttf") format("truetype");
 font-weight: 600;
 font-style: normal;
 }
 @font-face {
 font-family: "jost";
-src: url("../fonts/Jost-700-Bold.eot");
-src: url("../fonts/Jost-700-Bold-1.eot") format("embedded-opentype"), 
-url("../fonts/Jost-700-Bold.ttf") format("truetype");
+src: url("../fonts/Jost-700-Bold.eb97b9fb9fb3.eot");
+src: url("../fonts/Jost-700-Bold-1.eb97b9fb9fb3.eot") format("embedded-opentype"), 
+url("../fonts/Jost-700-Bold.48900fc9fb6e.ttf") format("truetype");
 font-weight: 700;
 font-style: normal;
 }
 @font-face {
 font-family: "jost";
-src: url("../fonts/Jost-800-Heavy.eot");
-src: url("../fonts/Jost-800-Heavy-1.eot") format("embedded-opentype"), 
-url("../fonts/Jost-800-Heavy.ttf") format("truetype");
+src: url("../fonts/Jost-800-Heavy.b21286fb9745.eot");
+src: url("../fonts/Jost-800-Heavy-1.b21286fb9745.eot") format("embedded-opentype"), 
+url("../fonts/Jost-800-Heavy.04b84afbc764.ttf") format("truetype");
 font-weight: 800;
 font-style: normal;
 }
 @font-face {
 font-family: "jost";
-src: url("../fonts/Jost-900-Black.eot");
-src: url("../fonts/Jost-900-Black-1.eot") format("embedded-opentype"), 
-url("../fonts/Jost-900-Black.ttf") format("truetype");
+src: url("../fonts/Jost-900-Black.b7e0ae985d58.eot");
+src: url("../fonts/Jost-900-Black-1.b7e0ae985d58.eot") format("embedded-opentype"), 
+url("../fonts/Jost-900-Black.12e7a76f5974.ttf") format("truetype");
 font-weight: 900;
 font-style: normal;
 }
